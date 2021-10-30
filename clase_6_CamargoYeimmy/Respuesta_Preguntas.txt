@@ -1,1 +1,16 @@
-Pruebas 
+a. ¿Quien Invento  Git ?
+Linus Torvalds creaba la primera revisión de git, un sistema de control de versiones (diseñado inicialmente para el desarrollo de Linux) 
+que se ha convertido en este tiempo en el más importante y utilizado del mundo. Para conmemorar este aniversario, 
+Linus Torvalds ha explicado en esta entrevista cómo nació git y las motivaciones que le llevaron a comenzar este proyecto.
+
+
+b. ¿A quien pertenece actualmente Github y por que ?
+
+El 4 de junio de 2018, Microsoft anunció la compra de la compañía por un importe de 7500 millones de dólares. Cerrándose la adquisición el 26 de octubre de 2018.
+
+El 28 de julio de 2020 GitHub hizo pública su hoja de ruta donde da a conocer todos los nuevos avances y los desarrollos futuros que prepara esta plataforma. El objetivo principal es que el mundo esté preparado para los nuevos cambios que se avecinan.
+
+
+C. ¿Hay  otra forma que no  sea la terminal para trabjar con github ?
+
+Se puede trabajar con la herramienta de escritorio  proporcionada por github
